@@ -1,0 +1,26 @@
+.prod-desc{
+    min-height: 160px;
+    font-size: larger;
+}
+.image-fix{
+    height: 40vw;
+    width: auto;
+    display: flex;
+    /* grid-template-columns: auto; */
+    padding: 40px;
+    justify-content: center;
+    margin-top: 50px;
+    position: relative;
+}
+.item-list{
+    height: 0px;
+    padding: 0px;
+    margin: 0px;
+    font-size: larger;
+}
+h5{
+    height: 100px; 
+    margin-top: 20px;
+    font-size: xx-large;
+    min-height: 100px;
+}
